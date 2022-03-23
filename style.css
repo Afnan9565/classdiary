@@ -1,0 +1,67 @@
+.days-container{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width: 7rem;
+    height: 1.9rem;
+    background-color: white;
+    border: 0.3rem solid #2fa1a1;
+    margin: 0rem 1.2rem;
+    cursor: pointer;
+    border-radius: 0.8rem;
+}
+.rou{
+    width: 70%;
+    margin: auto;
+    margin-top: 6rem;
+    display: none;
+
+}
+.sub{
+    display: grid;
+    grid-template-columns: 1fr 2fr 5fr;
+    margin-bottom:1.2rem ;
+}
+.num{
+    font-size: 4rem;
+    color: tomato;
+    display: flex;
+    align-items: center;
+}
+.pic{
+    height: 8rem;
+    width: 16rem;
+    display: flex;
+    align-items: center;
+}
+.work{
+    margin-left: 1.2rem;
+    display: flex;
+    align-items: center;
+}
+.dateholder{
+    background-color: #bdbaba;
+    padding: 0.6rem;
+    border-radius: 0.8rem;
+    color: white;
+}
+.date{
+    margin-bottom: 1.2rem;
+}
+.print1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.print{
+    height: 2rem;
+    width: 8rem;
+    margin-top: 1.2rem;
+    background-color: lightseagreen;
+    color: white;
+    border: none;
+    border-radius: 1.2rem;
+}
